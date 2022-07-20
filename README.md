@@ -4,7 +4,8 @@
 The purpose of this analysis is to compare ride share data for the company PyBer based on the location of the ride: urban, suburban, and rural cities. This analysis will allow PyBer to think geographically about their market and plan to improve performance and profits based on area. 
 
 ## Results
-Upon comparing ride-sharing data based on geographical area (urban, suburban, and rural cities), the following information was found: 
+Upon comparing ride-sharing data based on geographical area (urban, suburban, and rural cities), the following information was found:
+
 ![Geographical_Rideshare_Data](analysis/Geographical_Rideshare_Data.png)
 
 From this image, it is aparent that urban areas lead the subcategories with the highest total rides, total drivers, and total fares (followed by suburban and rural areas, respectively). However, the inverse is true for average fare per ride and average fare per driver. In these categories, urban areas have the lowest values followed by suburban and rural areas. 
